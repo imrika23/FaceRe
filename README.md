@@ -1,4 +1,4 @@
-# face_recognition_with_images
+# Face Recognition Application
 
 A new Flutter project.
 
