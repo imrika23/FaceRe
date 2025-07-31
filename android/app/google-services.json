@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "444958857569",
+    "project_id": "elective-663a7",
+    "storage_bucket": "elective-663a7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444958857569:android:ec89972bcba99ef9e60d20",
+        "android_client_info": {
+          "package_name": "com.example.face_recognition_with_images"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEPf76f4YKqPZoHAUWxHrKu94BAl7odyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
